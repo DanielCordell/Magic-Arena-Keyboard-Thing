@@ -1,0 +1,19 @@
+{
+  "name": "magic-arena-keyboard-colours",
+  "version": "1.0.0",
+  "description": "A plugin for SteelSeries keyboards to change colour on events from Magic Arena.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing.git"
+  },
+  "author": "Daniel Cordell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing/issues"
+  },
+  "homepage": "https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing#readme"
+}
