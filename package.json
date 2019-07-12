@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing/issues"
   },
-  "homepage": "https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing#readme"
+  "homepage": "https://github.com/DanielCordell/Magic-Arena-Keyboard-Thing#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
